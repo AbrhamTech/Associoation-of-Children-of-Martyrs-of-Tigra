@@ -1,5 +1,6 @@
 👋 Hi, I'm Abrham Berhe!  
-🌍 Based in Ethiopia | 🌐 Aspiring for opportunities in Canada & Europe  
+🌍 Based in Ethiopia | 
+🌐 Aspiring for opportunities in Afirca, Canada & Europe  
 💻 Full-Stack Web Developer | Software Engineer  
 🎓 Graduated from Haramaya University (2020, Software Engineering)  
 
